@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "This is a simple restaurant app built with node express, mysql, and handlebars.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lienaquesada/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lienaquesada/burger/issues"
+  },
+  "homepage": "https://github.com/lienaquesada/burger#readme"
+}
