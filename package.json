@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "This is a simple restaurant app built with node express, mysql, and handlebars.",
   "main": "server.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "heroku": "^7.37.0",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
